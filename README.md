@@ -37,3 +37,7 @@
 	5. git reflog -3 --stat
 
 	6. git log -3 --stat --oneline
+
+6. Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.
+
+	1. git fetch 
